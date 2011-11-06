@@ -1,3 +1,17 @@
+Goal of this fork
+=================
+
+Merge all mandatory pull requests still not accepted by @lantins.
+Merged in the 'testing' branch.
+
+Kudos to @evanbattaglia and @bogdan.
+
+Includes fixes:
+
+* https://github.com/railsware/resque-retry/commit/ae1e36c91a76055096918975954220f4f0244cc3
+* https://github.com/seomoz/resque-retry/commit/4a485b7182685c4875b94907e48d8ecc977e0d7d
+* https://github.com/seomoz/resque-retry/commit/0f763cf92866bbeea6f4b40f50411c1a5baa2461
+
 resque-retry
 ============
 
